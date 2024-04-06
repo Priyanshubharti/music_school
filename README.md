@@ -1,3 +1,17 @@
+## Music_School
+
+The website built on Next.js with the assistance of Aceternity UI offers a seamless blend of modern design and dynamic animations. Leveraging the powerful capabilities of Next.js, the website ensures fast loading 
+times and optimal performance. Aceternity UI contributes to the aesthetic appeal with its sleek and contemporary design elements, enhancing user experience. Through the integration of modern animations, the 
+website captivates visitors, providing an engaging and immersive browsing experience. Overall, the combination of Next.js and Aceternity UI delivers a visually stunning and functionally efficient website that is 
+sure to leave a lasting impression on users.
+
+![Screenshot 2024-04-06 123055](https://github.com/Priyanshubharti/music_school/assets/76689991/b514efba-6f1c-4ed3-aeaa-11d48a3e9c97)
+![Screenshot 2024-04-06 122850](https://github.com/Priyanshubharti/music_school/assets/76689991/6d425413-2794-4b87-b55f-1d4ddb6ce2d5)
+![Screenshot 2024-04-06 123230](https://github.com/Priyanshubharti/music_school/assets/76689991/7624e34e-22c3-4fef-b381-05d8a5d7c8e5)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
